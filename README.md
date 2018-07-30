@@ -19,6 +19,8 @@ Install virtual env:
 $pip install pipenv
 
 Install dependencies:
+Go to project parent directory ~/coinscanner/
+and run command
 $pipenv install
 ```
 
