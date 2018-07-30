@@ -1,4 +1,4 @@
-# Project Title
+# Coinscanner
 
 Development Prototyping and testing for development of coinscanner app
 
